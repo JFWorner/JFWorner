@@ -9,7 +9,7 @@ convencionales en la industria de petróleo y gas.
 
 ---
 
-### 🔧 Stack principal
+### Stack principal
 
 **Lenguajes:** C · Python · C++ 
 **Sistemas y herramientas:** Linux · Docker · Git
@@ -18,7 +18,7 @@ convencionales en la industria de petróleo y gas.
 
 ---
 
-### 💼 Experiencia
+### Experiencia
 
 - **Gestor de Aplicaciones en A&C** — AESA *(2026 – actualidad)*
   Edge computing sobre Linux en entorno dockerizado para control de pozos no convencionales.
@@ -29,14 +29,14 @@ convencionales en la industria de petróleo y gas.
 
 ---
 
-### 🎓 Formación
+### Formación
 
 Ingeniería Electrónica — **UTN FRBA** (2017–2024)
 Proyecto final: estimación de rigidez arterial mediante redes neuronales y fotopletismografía.
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-francisco-martorello/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanfranciscomartorello@gmail.com)
