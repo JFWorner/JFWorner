@@ -31,7 +31,8 @@ convencionales en la industria de petróleo y gas.
 
 ### Formación
 
-Ingeniería Electrónica — **UTN FRBA** (2017–2024)
+Ingeniería Electrónica — **UTN FRBA** (2017–2024).
+
 Proyecto final: estimación de rigidez arterial mediante redes neuronales y fotopletismografía.
 
 ---
